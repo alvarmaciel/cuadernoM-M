@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Secuencias y proyectos](chapter1.md)
-* Escuela 11 DE 19
+* [Escuela 11 DE 19](escuela_11_de_19.md)
    * [Cronogramas](cronogramas.md)
 
