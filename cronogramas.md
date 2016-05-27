@@ -22,12 +22,12 @@
 
 |Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
 |:--:|:-----|:------|:--------|:------|:-------|
-|1   |1º A  |1º A   |Pausa Evaluativa |1º A   |2º B Dailan   |
-|2   |1º A  |1º A   |Pausa Evaluativa |2º B GF adelanto Dailan|2º B Escritura extensa   |
-|3   |Limericks |2º B Dailan (escritura)   |3º GF    |1º A   |PLANI   |
+|1   |1º A  |1º A   |2º A Pausa Evaluativa |1º A   |2º B Dailan   |
+|2   |1º A  |1º A   |2º A Pausa Evaluativa |2º B GF adelanto Dailan|2º B Escritura extensa   |
+|3   |2º A Limericks |2º B Dailan (escritura)   |3º GF    |1º A   |PLANI   |
 |4   |2º B Limericks  |PLANI  |2º B Pausa Evaluativa     |1º A   |2º B Biblio   |
-|5   |PLANI |Dailan  |1º A     |3 GF   |2º A Biblio   |
-|6   |2ºB GF|Dailan|PLANI    |2º A GF| 2º A Biblio  |
+|5   |PLANI |2º A Dailan  |1º A     |3 GF   |2º A Biblio   |
+|6   |2ºB GF|2º A Dailan|PLANI    |2º A GF| 2º A Biblio  |
 
 ### Semana del 23 al 27
 
