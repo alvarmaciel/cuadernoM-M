@@ -1,4 +1,4 @@
-Semana # Cronograma
+# Cronograma
 <!-- toc -->
 
 ## Horarios
