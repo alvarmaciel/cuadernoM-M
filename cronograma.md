@@ -20,7 +20,7 @@
 |Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
 |:--:|:-----|:-----|:--------|:------|:--------|
 |1   |2º C pinocho  |3º B  |2º C Aves     |3º B   |2º C Aves    |
-|2   |2º C pinocho |PLANI |2º C  Aves   |3º B   |2º C Aves    |
+|2   |2º C compu |PLANI |2º C  Aves   |3º B   |2º C Aves    |
 |3   |PLANI |3º B  |2º C Pinocho    |3º B   |2º C Pinocho    |
 |4   |2º C grupo  |PLANI |2º C grupo    |3º B   |2º C grupo    |
 |5   |2º C  |3º B  |2º C     |3º B   |PLANI    |
