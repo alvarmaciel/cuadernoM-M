@@ -1,4 +1,4 @@
-# Cronograma
+# Cronograma escuela 11/9
 <!-- toc -->
 
 ## Horarios
@@ -13,7 +13,23 @@
 |6   |2º C  |3º B  |2º C     |3º B   |2º C     |
 
 
+## Junio
+
+### semana del 6 al 30
+
+|Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
+|:--:|:-----|:-----|:--------|:------|:--------|
+|1   |2º C pinocho  |3º B  |2º C Aves     |3º B   |2º C Aves    |
+|2   |2º C pinocho |PLANI |2º C  Aves   |3º B   |2º C Aves    |
+|3   |PLANI |3º B  |2º C Pinocho    |3º B   |2º C Pinocho    |
+|4   |2º C grupo  |PLANI |2º C grupo    |3º B   |2º C grupo    |
+|5   |2º C  |3º B  |2º C     |3º B   |PLANI    |
+|6   |2º C  |3º B  |2º C     |3º B   |2º C     |
+
+
 ## Mayo
+
+
 
 ### Semana del 30 al 3 de Junio
 
