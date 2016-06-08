@@ -16,6 +16,18 @@
 
 ## Junio
 
+## junio 
+
+
+|Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
+|:--:|:-----|:------|:--------|:------|:-------|
+|1   |1º A  |1º A   |2º A     |1º A   |2º B  aves  |
+|2   |1º A  |1º A   |2º A     |2º B GF aves|2º B   aves |
+|3   |2º A  |2º B  dailan |3º GF    |1º A   |PLANI   |
+|4   |2º B aves |PLANI  |2º B  limerick   |1º A   |2º B dailan   |
+|5   |PLANI |2º A   |1º A     |3 GF   |2º A    |
+|6   |2ºB GF aves|2º A GF|PLANI    |2º A GF| 2º A 
+
 ### Semana del 6 a 10
 |Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
 |:--:|:-----|:------|:--------|:------|:-------|
