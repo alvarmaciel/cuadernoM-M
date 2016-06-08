@@ -16,7 +16,7 @@
 
 ## Junio
 
-## junio 
+### Semana del 13 al 17
 
 
 |Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
@@ -26,17 +26,17 @@
 |3   |2º A  |2º B  dailan |3º GF    |1º A   |PLANI   |
 |4   |2º B aves |PLANI  |2º B  limerick   |1º A   |2º B dailan   |
 |5   |PLANI |2º A   |1º A     |3 GF   |2º A    |
-|6   |2ºB GF aves|2º A GF|PLANI    |2º A GF| 2º A 
+|6   |2ºB GF aves|2º A GF|PLANI    |2º A GF| 2º A |
 
 ### Semana del 6 a 10
 |Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
 |:--:|:-----|:------|:--------|:------|:-------|
 |1   |~~1º A~~ capacitación  |1º A pausa  |2º A dailan lectura   |1º A   |2º B    |
 |2   |~~1º A~~ capacitación |1º A pausa  |2º A dailan escritura   |2º B ~~GF~~ Limericks|2º B    |
-|3   |~~2º A~~ capacitación |2º B dailan  |~~3º GF~~    |1º A   |PLANI  
+|3   |~~2º A~~ capacitación |2º B dailan  |~~3º GF~~    |1º A   |PLANI  |
 |4   |~~2º B Dailan Lectura~~ capacitación |PLANI  |~~2º B Aves~~  GF adelanto dailan  |1º A   |2º B    |
 |5   |~~PLANI~~ capacitación|~~2º A Aves de la ciudad~~ carga de pausas   |~~1º A~~     |3 GF   |2º A    |
-|6   |~~2ºB GF Sistema de escritura~~ capacitación|~~2º A GF Aves de la ciudad~~ carga dede pausas|PLANI    |2º A GF| 2º A   |
+|6   |~~2ºB GF Sistema de escritura~~ capacitación|~~2º A GF Aves de la ciudad~~ carga dede pausas|PLANI    |2º A GF dailan| 2º A   |
 ## Mayo
 
 
