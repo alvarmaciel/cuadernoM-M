@@ -12,8 +12,21 @@
 |5   |2º C  |3º B  |2º C     |3º B   |PLANI    |
 |6   |2º C  |3º B  |2º C     |3º B   |2º C     |
 
-
 ## Junio
+
+### Semana del 21 al 24
+
+|Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
+|:--:|:-----|:-----|:--------|:------|:--------|
+|1   |~~2º C~~ FERIADO  |3º B  |PINOCHO |3º B   |AVES     |
+|2   |~~2º C~~ FERIADO  |PLANI |PINOCHO |3º B   |AVES     |
+|3   |~~PLANI~~ FERIADO |3º B  |AVES    |3º B   |2º C  FOCALIZADOS|
+|4   |~~2º C~~ FERIADO  |PLANI |AVES    |3º B   |2º C FOCALIZADOS|
+|5   |~~2º C~~ FERIADO  |3º B  |2º C    |3º B   |PLANI    |
+|6   |~~2º C~~ FERIADO  |3º B  |2º C    |3º B   |2º C PINOCHO |
+
+
+
 
 ### semana del 6 al 30
 
