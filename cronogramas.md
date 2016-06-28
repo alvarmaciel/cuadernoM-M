@@ -14,7 +14,32 @@
 |5   |PLANI |2º A   |1º A     |3 GF   |2º A    |
 |6   |2ºB GF|2º A GF|PLANI    |2º A GF| 2º A   |
 
+## Julio
+
+### Semana del 4 al 7
+|Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
+|:--:|:-----|:------|:--------|:------|:-------|
+|1   |1º A AN 4   |1º A  AN 5   |2º A AVES 7   |1º A  AN 7 |~~2º B~~    |
+|2   |1º A AN 4   |1º A AN 5    |2º A AVES 7   |2º B GF|~~2º B~~    |
+|3   |2º A AVES 5 |2º B AVES 5  |3º GF         |1º A  AN 7|~~PLANI~~   |
+|4   |2º B AVES 4 |PLANI        |2º B AVES 6   |1º A  AN RS |~~2º B~~    |
+|5   |PLANI       |2º A AVES 6  |1º A AN 6     |3 GF   |~~2º A~~    |
+|6   |2ºB GF      |2º A GF      |PLANI         |2º A GF AVES 8|~~2º A~~   |
+
 ## Junio
+
+
+
+### Semana 27 al 1 de Julio
+
+|Turno|Lunes|Martes|Miércoles|Jueves |Viernes  |
+|:--:|:-----|:------|:--------|:------|:-------|
+|1   |1º A  |1º A   |2º A Aves 3     |1º A AN 3   |2º B AVES 3   |
+|2   |1º A  |1º A   |2º A Aves 3    |2º B GF|2º B  AVES 3  |
+|3   |2º A  |2º B   |3º GF    |1º A  AN 3 |PLANI   |
+|4   |2º B  |PLANI  |2º B Aves 2    |1º A AN Ref. Leng  |2º B  Biblio  |
+|5   |PLANI |2º A   |1º A AN 2    |3 GF   |2º A  AVES 4  |
+|6   |2ºB GF|2º A GF|PLANI    |2º A GF| 2º A  AVES 4 |
 
 ### Semana del 13 al 17
 
